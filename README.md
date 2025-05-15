@@ -16,3 +16,5 @@ Aplikasi ini adalah kalkulator ilmiah sederhana berbasis Java dengan antarmuka g
 | GUI Library        | Swing (javax.swing)                        |
 | JDK Versi          | Java 8 ke atas (direkomendasikan Java 11+) |
 | IDE                | Visual Studio Code / IntelliJ / Eclipse    |
+
+![image](https://github.com/user-attachments/assets/2a9a7d3c-f081-49a2-b694-5f864dfb7d0a)
