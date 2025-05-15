@@ -8,6 +8,8 @@ Aplikasi ini adalah kalkulator ilmiah sederhana berbasis Java dengan antarmuka g
 - Efek animasi hover pada tombol
 
 2. 🛠 Teknologi yang Digunakan
+
+   
 | Komponen           | Keterangan                                 |
 | ------------------ | ------------------------------------------ |
 | Bahasa Pemrograman | Java SE                                    |
